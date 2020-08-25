@@ -1,0 +1,6 @@
+testuname1,2VZMhWDa,Computing and IT in the Workplace,CITW,15
+testuname1,2VZMhWDa,Fundamentals of Software Development,FSD,15
+testuname1,2VZMhWDa,Introduction to Management,IMT,15
+testuname1,3y6LvcVL,Computing and IT in the Workplace,CITW,15
+testuname1,3y6LvcVL,Fundamentals of Software Development,FSD,15
+testuname1,3y6LvcVL,Operating System and Computer Architecture,OSCA,25

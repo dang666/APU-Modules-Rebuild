@@ -1,0 +1,12 @@
+MPU3113-HE:Ethnic Relations:1:600:2
+CT010-3-1-FSD:Fundamentals of Software Development:2:1200:3
+AQ012-3-1-FA1:Financial Accounting 1:1:900:3
+AQ013-3-2-FA2:Financial Accounting 2:2:1000:3
+AQ014-3-3-FA3:Financial Accounting 3:3:1200:3
+AQ077-3-2-PSMOD-1:General Maths 1:1:300:3
+AQ077-3-2-PSMOD-2:General Maths 2:2:300:3
+AQ077-3-2-PSMOD-3:General Maths 3:3:300:3
+asdf:This is the name changes:2:300:2
+adafasf:name 2:3:4000:4
+adafa:dasfsf:1:adf:1
+c:c:2:234:2
