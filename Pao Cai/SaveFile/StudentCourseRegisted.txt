@@ -1,0 +1,7 @@
+TP049162:Loo Ying Chi:MPU3113-HE:Ethnic Relations:600:Pending
+TP049162:Loo Ying Chi:AQ013-3-2-FA2:Financial Accounting 2:1000:Completed
+TP049123:Low Chi Haw:MPU3113-HE:Ethnic Relations:600:Pending
+TP049123:Low Chi Haw:AQ012-3-1-FA1:Financial Accounting 1:900:Pending
+TP049123:Low Chi Haw:AQ077-3-2-PSMOD-1:General Maths 1:300:Completed
+TP049162:Loo Ying Chi:AQ077-3-2-PSMOD-2:General Maths 2:300:Pending
+TP049123:Low Chi Haw:adafa:dasfsf:adf:Pending

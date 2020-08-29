@@ -1,0 +1,4 @@
+testuname1,Introduction to Management,IMT,15
+testuname1,Computing and IT in the Workplace,CITW,15
+testuname1,Fundamentals of Software Development,FSD,15
+testuname1,Operating System and Computer Architecture,OSCA,25
