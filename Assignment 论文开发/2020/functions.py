@@ -1,10 +1,10 @@
-#######Car register. While entering the parking lot 
 def Vehregister():
-    vehtxtinit=open('./vehtemprecord.txt', 'a+',encoding='utf-8')
-    vehtxtinit.close()
-    vehsum=[]
-    vehno=input('Please enter the Vehicle No\n')
-    vehtype=''
+    '''Car register. While entering the parking lot'''
+    vehtxtinit=open('./vehtemprecord.txt', 'a+',encoding='utf-8') # open txt file in append mode 
+    vehtxtinit.close() # close the txt file
+    vehsum=[] # initialize a empty lsit in local scope 
+    vehno=input('Please enter the Vehicle No\n') # user input
+    vehtype='' # initialize the variable string of vehtype
     typechoose=int(input('Please choose the Vehicle type\n1.Motorcycle\n2.Car\n3.Van\n'))
     if typechoose==1:
         vehtype='Motorcycle'
@@ -12,15 +12,19 @@ def Vehregister():
         vehtype='Car'
     if typechoose==3:
         vehtype='Van'
-    date=datetime.datetime.now()
+
+    date=datetime.datetime.now() # access the time now by datetime library
     endate=('%s-%s-%s' %(date.year,date.month,date.day))
+
+    # Get the current time hour:minute
     enhour=int(input('Please enter the current hour(24h)\n'))
     enminute=int(input('Please enter the current minute(24h)\n'))
     os.system('cls')
-    entime=('%s:%s'%(enhour,enminute))
-    #######Car park lot detected
+    entime=('%s:%s'%(enhour,enminute)) # subsitute the enhour and enminute to hour:minute form
+
+    # Car park lot detected
     tempread=open('./vehtemprecord.txt', 'r',encoding='utf-8')
-    alltemplist=[]
+    alltemplist=[] # initialize the alltemplist empty list
     parklotlist=['Lot1-1','Lot1-2','Lot1-3','Lot2-1',
     'Lot2-2','Lot2-3','Lot3-1','Lot3-2','Lot3-3',
     'Lot3-4','Lot4-1','Lot4-2','Lot5-1','Lot5-2',
@@ -28,17 +32,19 @@ def Vehregister():
     'Lot7-4','Lot8-1','Lot8-2','Lot8-3','Lot9-1',
     'Lot9-2','Lot9-3','Lot10-1','Lot10-2','Lot10-3',
     'Lot10-4','Noparkinglot']
+
     for i in tempread:
-        list1=eval(i)
+        list1=eval(i) # ?
         alltemplist.append(list1)
-    existvehnum=len(alltemplist)
-    #print(alltemplist)
-    for i in range(existvehnum):
+    print(alltemplist)
+
+    for i in range(len(alltemplist)): # iterate through the length size of altemplist
         while alltemplist[i][4] in parklotlist:
             parklotlist.remove(alltemplist[i][4])
     vehparklot=parklotlist[0]
     tempread.close()
-    #################Car park lot detected ended
+
+    # Car park lot detected ended
     Vehexitdate='Nodate'
     vehexittime='Notime'
     vehprice='Noprice'
@@ -62,7 +68,6 @@ def Vehregister():
     input('Press any key back to menu')
     os.system('cls')
 
-############################
 def Vehexit():
     alllist=[]
     vehno=input('Please enter Vehicle No to do action\n')
@@ -192,7 +197,8 @@ def Vehexit():
     input('Press any key back to menu')
     time.sleep(2)
     os.system('cls')
-########################Total amount from each type of vehicle
+    
+#Total amount from each type of vehicle
 def Vehamount():
     vehtxt=open('./vehprrecord.txt', 'r',encoding='utf-8')
     carsum=0
@@ -215,7 +221,7 @@ def Vehamount():
     print('Total amount for Van: RM'+str(vansum))
     input('Press enter back to menu')
     os.system('cls')
-######################
+
 def Vehbillmore10():
     vehtxt=open('./vehprrecord.txt', 'r',encoding='utf-8')
     carcount=0
@@ -231,7 +237,7 @@ def Vehbillmore10():
     input('Press enter back to menu')
     os.system('cls')
 
-####################
+
 def Searchveh():
     alllist=[]
     vehno=input('Please enter Vehicle to search parking lot\n')
@@ -252,7 +258,7 @@ def Searchveh():
     print('Parking lot: '+alllist[locatedata][4])
     input('Press enter back to menu')
     os.system('cls')
-##################3
+
 def Vehmorethan4h():
     alllist=[]
     sumhour=0
