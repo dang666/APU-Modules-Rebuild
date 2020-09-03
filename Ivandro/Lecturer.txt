@@ -1,0 +1,2 @@
+Lec000,Isaac,Newton,22/03/35,Male,Newton@gmail.com,0156328975335,Frankfurt Villa,20-5,Engineering,2002
+Lec777,Galileu,Galilei,03/03/53,Male,Galileogalilei@hotmail.com,0563535386,First Church Plaza,A-9,Engineering,2005

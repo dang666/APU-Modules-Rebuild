@@ -1,0 +1,11 @@
+
+02 ,Business ,20/02/2009 ,TP222 ,Lara ,Croft ,Present
+02 ,Business ,20/02/2009 ,TP555 ,Carol ,Spear ,Absent
+02 ,Business ,20/02/2009 ,TP666 ,Jenny ,Lopez ,Late
+88 ,Business ,20/02/20099 ,TP222 ,Lara ,Croft ,Present
+88 ,Business ,20/02/20099 ,TP555 ,Carol ,Spear ,Absent
+88 ,Business ,20/02/20099 ,TP666 ,Jenny ,Lopez ,Late
+2 ,Engineering ,dd/mm/yyyy ,TP000 ,Ivandro ,Mauro ,Present
+2 ,Engineering ,dd/mm/yyyy ,TP333 ,John ,Cena ,Absent
+2 ,Engineering ,dd/mm/yyyy ,TP444 ,Rico ,Rodriguez ,Present
+2 ,Engineering ,dd/mm/yyyy ,TP202 ,Rosalina ,Crosby ,Present
