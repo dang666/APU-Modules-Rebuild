@@ -2,16 +2,17 @@ import time,os,datetime # import standard library in python
 from functions import # import function written by programmer  
 
 #Main
-keep=True
 print('Welcome to use car park system')
 time.sleep(2)
-os.system('cls')
-while keep:
-    print('1.New Vehicle entering register')
-    print('2.Vehicle exit bill')
-    print('3.Accounts Information')
-    print('4.Searching')
-    print('5.Shutdown')
+os.system('cls') # ?
+while True:
+    print('''
+    1.New Vehicle entering register
+    2.Vehicle exit bill'
+    3.Accounts Information
+    4.Searching
+    5.Shutdown
+    ''')
     sec=int(input())
     if sec==1:
         os.system('cls')
@@ -62,13 +63,4 @@ while keep:
                 os.system('cls')
         continue
     if sec==5:
-        keep=False
-
-
-
-
-
-    
-
-    
-
+        break
