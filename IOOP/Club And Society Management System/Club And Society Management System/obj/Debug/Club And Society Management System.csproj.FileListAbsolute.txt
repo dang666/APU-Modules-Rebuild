@@ -1,0 +1,19 @@
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\bin\Debug\Club And Society Management System.exe.config
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\bin\Debug\Club And Society Management System.exe
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\bin\Debug\Club And Society Management System.pdb
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club And Society Management System.csprojAssemblyReference.cache
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club_And_Society_Management_System.Properties.Resources.resources
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club And Society Management System.csproj.GenerateResource.cache
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club And Society Management System.csproj.CoreCompileInputs.cache
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club And Society Management System.exe
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club And Society Management System.pdb
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club_And_Society_Management_System.Authentication.resources
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club_And_Society_Management_System.clubMaintenance.resources
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club_And_Society_Management_System.studentRegister.resources
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club_And_Society_Management_System.viewClubDetails.resources
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club_And_Society_Management_System.clubAchievementMaintenance.resources
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club_And_Society_Management_System.clubActivityMaintenance.resources
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club_And_Society_Management_System.clubMembershipMaintenance.resources
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club_And_Society_Management_System.stdDashboard.resources
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club_And_Society_Management_System.viewClub.resources
+C:\Users\Hybrid Incorporation\source\repos\Club And Society Management System\Club And Society Management System\obj\Debug\Club_And_Society_Management_System.adminDashboard.resources

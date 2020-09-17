@@ -1,0 +1,7 @@
+admin123:123:A001:Loo Ying Chi:0123456789:A001@gmail.com
+admin1:qwe:A002:Low Chi Haw:0123456789:A002@gmail.com
+admin2:asd:A003:TianTian:0123456789:A003@gmail.com
+admin3:zxc:A004:Loh Yan Shin:0123456789:A004@gmail.com
+admin4:123:A005:Andrew:1234567890:A005@gmail.com
+admin5:123:A006:Teo Kai Zhe:1234567890:A006@gmail.com
+admin7:123:A007:Tan Jia Yu:1234567890:A007@gmail.com

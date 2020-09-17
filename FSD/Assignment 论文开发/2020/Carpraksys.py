@@ -1,7 +1,7 @@
 import time,os,datetime # import standard library in python
 from functions import # import function written by programmer  
 
-#Main
+# Main
 keep=True
 print('Welcome to use car park system')
 time.sleep(2)

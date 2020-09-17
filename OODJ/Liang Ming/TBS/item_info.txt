@@ -1,0 +1,4 @@
+itemCode;test1;tu;4;
+chair;wooden;alex123;1;
+ca1;cabbage;cab;5;
+carrot123;carrot;s1;5;

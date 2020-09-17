@@ -1,0 +1,13 @@
+Computing and IT in the Workplace,CITW,Level 1,Introduces the knowledge relating to Computing and IT in society,15
+Fundamentals of Software Development,FSD,Level 1,Learn problem solving using programmed solutions,15
+Introduction to Management,IMT,Level 1,Learn about management roles and skills required in organisations,15
+Operating System and Computer Architecture,OSCA,Level 1,Introduction to computer systems with protocols and standards,25
+Introduction to Artificial Intelligence,IAI,Level 2,Introduces basic understanding of current AI concepts,10
+Introduction to C Programming,ICP,Level 2,Learn to solve problems by producing a program using C language,15
+Introduction to Databases,IDB,Level 2,Introduction to basic concepts and principles of a database management system,25
+System Analysis and Design,SAAD,Level 2,Learn the principles and concepts of project management,15
+Object Oriented with Java,OODJ,Level 3,Learn the concepts of Object Oriented programming using Java language,30
+Professional and Enterprise Development,PDT,Level 3,Introduces fundamental skills and knowledge for professional employment,25
+Data Management,DTM,Level 3,Introduces an overview of data management and concepts of data mining,25
+System Development Methods,SDM,Level 3,Introduces concepts and methodologies used in system development,25
+
