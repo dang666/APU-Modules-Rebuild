@@ -1,0 +1,8 @@
+t3;reng 2;2;
+tr;tr;tr;41;
+tt;tt;tt;52;
+tg;tg;te;50;
+
+
+t4;ca1;2;
+t7;ca1;5;

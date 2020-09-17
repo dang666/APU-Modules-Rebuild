@@ -9,7 +9,6 @@ namespace Club_And_Society_Management_System
 {
     class admin
     {
-
         public int id { get; set; }
         public string name { get; set; }
 
