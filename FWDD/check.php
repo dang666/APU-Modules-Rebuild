@@ -1,5 +1,5 @@
 <?php
-$db = mysqli_connect('localhost', 'root', '', 'testajax');
+$db = mysqli_connect('localhost','root','','testajax');
 
 if (isset($_POST['proceed'])) {
     $name = $_POST['search'];
@@ -7,7 +7,6 @@ if (isset($_POST['proceed'])) {
     $execQuery = mysqli_query($db, $query);
     while ($result = mysqli_fetch_array($execQuery))
     {
-    
         ?>
         <a onclick='insert("<?php echo $result['username']; ?>")'>
         <?php echo $result['username']; ?><br/>
